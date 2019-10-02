@@ -4,4 +4,4 @@ interface Options {
 
 declare function safeRegex<T>(regex: RegExp, opts?: Options | T): void;
 
-export default safeRegex;
+export = safeRegex;
