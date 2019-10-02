@@ -1,3 +1,5 @@
+// TypeScript Version: 3.5.2
+
 interface Options {
   limit: number;
 }
