@@ -4,6 +4,6 @@ interface Options {
   limit: number;
 }
 
-declare function safeRegex<T>(regex: RegExp, opts?: Options | T): void;
+declare function safeRegex<T>(regex: RegExp | string | T, options?: Options): boolean;
 
 export = safeRegex;
