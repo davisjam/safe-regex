@@ -9,8 +9,6 @@ regular expressions by limiting the
 WARNING: This module has both false positives and false negatives.
 Use [vuln-regex-detector](https://github.com/davisjam/vuln-regex-detector) for improved accuracy.
 
-[![browser support](https://ci.testling.com/substack/safe-regex.png)](https://ci.testling.com/substack/safe-regex)
-
 [![build status](https://secure.travis-ci.org/substack/safe-regex.png)](http://travis-ci.org/substack/safe-regex)
 
 # Example
