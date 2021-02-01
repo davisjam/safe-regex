@@ -1,4 +1,9 @@
 .vscode
-coverage
-src/
+.github/
+coverage/
 dist/test/
+example/
+src/
+test/
+.travis.yml
+babel.config.json
